@@ -15,4 +15,4 @@ A subset (largely computer-related) of Things I Learn. It's my personal collecti
 
 ## About
 
-This is where I store short write-ups on things I learn day to day across various technologies and topics. For longer posts, I may post on [https://studionontroppo.com].
+This is where I store short write-ups on things I learn day to day across various technologies and topics. For longer posts, I may post on https://studionontroppo.com.
