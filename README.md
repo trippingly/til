@@ -4,7 +4,7 @@ A subset (largely computer-related) of Things I Learn. It's my personal collecti
 
 <!-- index starts -->
 ## Categories
-* [AI](/ai)
+* [AI](/AI)
 * [WordPress](/wordpress)
 * [GitHub](/github)
 * [python](/python)
